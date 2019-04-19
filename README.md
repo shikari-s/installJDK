@@ -10,3 +10,5 @@
 VersionとJVMを選択したら**Latsest release**をクリック
 **Lateset release**をクリックするとJDKのインストーラがダウンロードされます。  
 ダウンロードが完了したらダウンロードされたソフト(OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi)を起動してインストールを開始します。
+
+
