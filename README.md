@@ -7,3 +7,4 @@
 [AdoptOpenJDK](https://adoptopenjdk.net/)
 >![AdoptOpenJDK](https://github.com/shikari-s/installJDK/blob/master/AdoptOpenJDK.png)
 >**Choose a Version**は**12**、**Choose a JVM**は**HotSpot**を選択
+VersionとJVMを選択したら**Latsest release**をクリック
