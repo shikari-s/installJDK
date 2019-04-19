@@ -2,7 +2,7 @@
 
 ここではWindowsOSでのJDKのインストールの方法を示します。
 
-## 1.インストール手順
+## 1.ダウンロード
 以下のリンクをクリック  
 [AdoptOpenJDK](https://adoptopenjdk.net/)
 >![AdoptOpenJDK](https://github.com/shikari-s/installJDK/blob/master/AdoptOpenJDK.png)
