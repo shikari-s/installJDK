@@ -3,7 +3,6 @@
 ここではWindowsOSでのJDKのインストールの方法を示します。
 
 ## 1.インストール手順
-1. ダウンロード  
 以下のリンクをクリック  
 [AdoptOpenJDK](https://adoptopenjdk.net/)
 >![AdoptOpenJDK](https://github.com/shikari-s/installJDK/blob/master/AdoptOpenJDK.png)
@@ -11,7 +10,7 @@
 
 VersionとJVMを選択したら**Latsest release**をクリック
 **Lateset release**をクリックするとJDKのインストーラがダウンロードされます。  
-2. インストール  
+## 2.インストール  
 ダウンロードが完了したらダウンロードされたソフト(OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi)を起動してインストールを開始します。
 
 
