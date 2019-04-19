@@ -6,4 +6,4 @@
 
 [AdoptJDK](https://adoptopenjdk.net/)
 ![AdoptOpneJDK](https://github.com/shikari-s/installJDK/blob/master/AdoptOpenJDK.png)
-Versinは12 JVMはHotSpotを選択
+Choose a Versionは12 Choose a JVMはHotSpotを選択
