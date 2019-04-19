@@ -5,5 +5,5 @@
 ## 1.インストール手順
 
 [AdoptJDK](https://adoptopenjdk.net/)
-![AdoptOpneJDK](.AdoptOpenJDK.png)
+![AdoptOpneJDK](https:/.AdoptOpenJDK.png)
 Versinは12 JVMはHotSpotを選択
