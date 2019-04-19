@@ -12,8 +12,14 @@
 **Lateset release**をクリックするとJDKのインストーラがダウンロードされます。  
 ## 2.インストール  
 * ダウンロードが完了したらダウンロードされたソフト(OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi)を起動してインストールを開始します。  
-![installer1](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC1.png)
-![installer2](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC2.png)
-![installer3](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC3.png)
-* 
-
+![installer1](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC1.png)  
+* 次へをクリック
+![installer2](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC2.png)  
+* 内容をよく読みチェックボックスをクリックして次へをクリック
+![installer3](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC3.png)  
+* 場所:に記しているのはJDKがインストールされている場所なので覚えておくと良い。
+* 次へをクリック
+## 3.確認
+* **インストール**の手順で確認したファイルを開いて以下のファイルがあるかを確認する
+  * aaa
+  * bbb
