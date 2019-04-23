@@ -8,8 +8,8 @@
 ![AdoptOpenJDK](https://github.com/shikari-s/installJDK/blob/master/AdoptOpenJDK.png)
 **Choose a Version**は**12**、**Choose a JVM**は**HotSpot**を選択  
 
-* VersionとJVMを選択したら**Latsest release**をクリック  
-**Lateset release**をクリックするとJDKのインストーラがダウンロードされます。  
+* VersionとJVMを選択したら**Latest release**をクリック  
+**Latest release**をクリックするとJDKのインストーラがダウンロードされます。  
 ## 2.インストール  
 * ダウンロードが完了したらダウンロードされたソフト(OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi)を起動してインストールを開始します。  
 ![installer1](https://github.com/shikari-s/installJDK/blob/master/jdk%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC1.png)  
